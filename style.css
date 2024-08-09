@@ -4311,8 +4311,9 @@ strong {
 }
 
   .footer {
-    position: relative;
+    position: fixed;
     width: 100%;
+    bottom: 0;
     background: #3586ff;
     min-height: 70px;
     padding: 20px 50px;
