@@ -2478,11 +2478,10 @@ strong {
     box-shadow: none;
     color: var(--black);
     background-color: #fff;
-    border: 2px solid #fff;
-    border-radius: 12px;
+    border-radius: 100px;
     justify-content: center;
     align-items: center;
-    padding: 15px 24px;
+    padding: 10px 10px;
     transition: color .2s;
     display: flex;
 }
@@ -2490,7 +2489,7 @@ strong {
 .primary-button:hover {
     box-shadow: none;
     color: var(--grey-text);
-    border-radius: 12px;
+    border-radius: 100px;
 }
 
 .primary-button.fill {
